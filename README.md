@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/manssizz/scriptvps"><img src="https://github.com/Manssizz/scriptvps/raw/master/assets/logo.png" alt="LOGO"></a>
+  <a href="https://github.com/t4nputr1/mansz"><img src="https://github.com/t4nputr1/mansz/raw/master/assets/logo.png" alt="LOGO"></a>
 </h1>
 
 ### PERHATIAN
@@ -9,7 +9,7 @@
 - Jika mendapatkan error pada status servis dalam jangka panjang, bisa restart servis yang dead.
 
 ### INSTALL SCRIPT
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/manssizz/scriptvps/master/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/t4nputr1/mansz/master/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 Akses kembali 15 setelah proses instalasi.
 
