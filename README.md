@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/t4nputr1/mansz"><img src="https://github.com/t4nputr1/mansz/raw/master/assets/logo.png" alt="LOGO"></a>
-</h1>
-
 ### PERHATIAN
 - Terima kasih untuk tidak menjual maupun mengenkripsi skrip ini. Saya mendapatkan secara gratis, jadi saya ataupun kalian harus berbagi secara gratis.
 - Script ini **tidak direkomendasikan untuk bermain game**.
